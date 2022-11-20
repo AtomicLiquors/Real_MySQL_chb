@@ -166,3 +166,16 @@ https://ko.wikipedia.org/wiki/REST
 http://blog.remotty.com/blog/2014/01/28/lets-study-rest/
 https://yangbongsoo.gitbooks.io/study/content/restc758_c774_d574_c640_c124_acc4.html
 http://spoqa.github.io/2012/02/27/rest-introduction.html
+
+
+&nbsp;  
+
+## RESTful API
+https://dev-coco.tistory.com/97
+RESTful은 REST의 설계 규칙을 잘 지켜서 설계된 API를 RESTful한 API라고 합니다.
+
+즉, REST의 원리를 잘 따르는 시스템을 RESTful이란 용어로 지칭됩니다.
+
+ 
+
+RESTful하게 만든 API는 요청을 보내는 주소만으로도 어떤 것을 요청 하는지 파악이 가능합니다.
